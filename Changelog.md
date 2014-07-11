@@ -1,3 +1,5 @@
+# 1.6
+* Add lookup for play names and team names, including static lookup and lookup using search results.
 # 1.5
 * Add more field extractions to figure out all play actions possible. See props.conf and transforms.conf.
 * Add a saved search for retrieving top 100 different shots in game.
