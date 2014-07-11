@@ -1,3 +1,5 @@
+# 1.4
+* Add event types and tags for categorizing events. See eventtypes.conf and tags.conf.
 # 1.3
 * Add workflow action for player events. See workflow_actions.conf.
 # 1.2
