@@ -1,3 +1,5 @@
+# 1.10
+* Add a custom search command called 'sum'.
 # 1.9
 * Add dashboard for top defenders, and use tag defined previously.
 # 1.8
