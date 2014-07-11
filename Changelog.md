@@ -1,3 +1,5 @@
+# 1.3
+* Add workflow action for player events. See workflow_actions.conf.
 # 1.2
 * Add a calculated field called PlayerFullName using EVAL.
 # 1.1
