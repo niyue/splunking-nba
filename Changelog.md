@@ -1,3 +1,5 @@
+# 1.7
+* Add a search macro for lookup search.
 # 1.6
 * Add lookup for play names and team names, including static lookup and lookup using search results.
 # 1.5
