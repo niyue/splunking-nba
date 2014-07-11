@@ -1,3 +1,6 @@
+# 1.8
+* Add transaction types for finding tip shot transaction in play by play events. See transactiontypes.conf.
+* Add a saved search for finding top tip shot partners.
 # 1.7
 * Add a search macro for lookup search.
 # 1.6
