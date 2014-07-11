@@ -1,3 +1,6 @@
+# 1.5
+* Add more field extractions to figure out all play actions possible. See props.conf and transforms.conf.
+* Add a saved search for retrieving top 100 different shots in game.
 # 1.4
 * Add event types and tags for categorizing events. See eventtypes.conf and tags.conf.
 # 1.3
