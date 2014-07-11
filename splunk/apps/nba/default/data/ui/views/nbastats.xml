@@ -1,0 +1,35 @@
+<dashboard>
+  <label>NBA stats</label>
+  <description />
+  <row>
+    <panel>
+      <chart>
+        <title>Year 2012 top defenders</title>
+        <searchName>year_2012_top_defenders</searchName>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <chart>
+        <title>Year 2012 defender Andrew Bynum</title>
+        <searchName>year_2012_top_defenders_bynum</searchName>
+        <option name="charting.chart">pie</option>
+      </chart>
+    </panel>
+    <panel>
+      <chart>
+        <title>Year 2012 defender Lebron James</title>
+        <searchName>year_2012_top_defenders_james</searchName>
+        <option name="charting.chart">pie</option>
+      </chart>
+    </panel>
+    <panel>
+      <chart>
+        <title>Year 2012 defender Blake Griffin</title>
+        <searchName>year_2012_top_defenders_griffin</searchName>
+        <option name="charting.chart">pie</option>
+      </chart>
+    </panel>
+  </row>
+</dashboard>
