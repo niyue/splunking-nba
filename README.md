@@ -1,7 +1,7 @@
 # About this demo app
 This Splunk app is used as a step by step tutorial for demonstrating some Splunk features about knowledge objects.
 
-This git repo contains 11 labels from 1.0 to 1.10 which progressively enhance the Splunk app and 
+This git repo contains 11 labels from 1.0 to 1.10 which progressively enhance the Splunk app and show you the usage of different knowledge objects in Splunk.
 
 # How to use it
 ## Use it without running the Splunk app
